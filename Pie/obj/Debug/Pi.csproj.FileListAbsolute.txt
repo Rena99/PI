@@ -1,0 +1,14 @@
+F:\Pie\Pie\bin\Debug\Pie.exe.config
+F:\Pie\Pie\bin\Debug\Pie.exe
+F:\Pie\Pie\bin\Debug\Pie.pdb
+F:\Pie\Pie\obj\Debug\Pi.csprojAssemblyReference.cache
+F:\Pie\Pie\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+F:\Pie\Pie\obj\Debug\Pie.exe
+F:\Pie\Pie\obj\Debug\Pie.pdb
+G:\Pie\Pie\bin\Debug\Pie.exe.config
+G:\Pie\Pie\bin\Debug\Pie.exe
+G:\Pie\Pie\bin\Debug\Pie.pdb
+G:\Pie\Pie\obj\Debug\Pi.csprojAssemblyReference.cache
+G:\Pie\Pie\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+G:\Pie\Pie\obj\Debug\Pie.exe
+G:\Pie\Pie\obj\Debug\Pie.pdb
